@@ -1,0 +1,13 @@
+﻿已經開始建置於 2017/8/15 下午 02:21:07。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\23605\Documents\Visual Studio 2012\Projects\TimeHashTest\TimeHashTest\TimeHashTest.vcxproj"。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\23605\Documents\Visual Studio 2012\Projects\TimeHashTest\Release\TimeHashTest.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\23605\Documents\Visual Studio 2012\Projects\TimeHashTest\Release\TimeHashTest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\23605\Documents\Visual Studio 2012\Projects\TimeHashTest\Release\TimeHashTest.lib" /MACHINE:X86 /SAFESEH Release\stdafx.obj
+         Release\TimeHashTest.obj
+         正在產生程式碼
+         已完成程式碼產生
+         TimeHashTest.vcxproj -> C:\Users\23605\Documents\Visual Studio 2012\Projects\TimeHashTest\Release\TimeHashTest.exe
+     1>專案 "C:\Users\23605\Documents\Visual Studio 2012\Projects\TimeHashTest\TimeHashTest\TimeHashTest.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.49

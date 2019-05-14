@@ -1,0 +1,6 @@
+c:\users\23605\documents\visual studio 2013\Projects\MultithreadedWorkQueue\MultithreadedWorkQueue\bin\Debug\MultithreadedWorkQueue.exe.config
+c:\users\23605\documents\visual studio 2013\Projects\MultithreadedWorkQueue\MultithreadedWorkQueue\bin\Debug\MultithreadedWorkQueue.exe
+c:\users\23605\documents\visual studio 2013\Projects\MultithreadedWorkQueue\MultithreadedWorkQueue\bin\Debug\MultithreadedWorkQueue.pdb
+c:\users\23605\documents\visual studio 2013\Projects\MultithreadedWorkQueue\MultithreadedWorkQueue\obj\Debug\MultithreadedWorkQueue.csprojResolveAssemblyReference.cache
+c:\users\23605\documents\visual studio 2013\Projects\MultithreadedWorkQueue\MultithreadedWorkQueue\obj\Debug\MultithreadedWorkQueue.exe
+c:\users\23605\documents\visual studio 2013\Projects\MultithreadedWorkQueue\MultithreadedWorkQueue\obj\Debug\MultithreadedWorkQueue.pdb

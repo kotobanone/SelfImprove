@@ -1,0 +1,8 @@
+; Encrypt_CAA.def : 宣告 DLL 的模組參數。
+
+LIBRARY
+
+EXPORTS
+encrypt
+decrypt
+    ; 明確匯出可置於此

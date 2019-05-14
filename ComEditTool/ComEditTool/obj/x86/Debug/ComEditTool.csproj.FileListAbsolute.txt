@@ -1,0 +1,7 @@
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\bin\x86\Debug\ComEditTool.exe
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\bin\x86\Debug\ComEditTool.pdb
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\obj\x86\Debug\ComEditTool.COMEditTool.resources
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\obj\x86\Debug\ComEditTool.Properties.Resources.resources
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\obj\x86\Debug\ComEditTool.csproj.GenerateResource.Cache
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\obj\x86\Debug\ComEditTool.exe
+c:\users\23605\documents\visual studio 2012\Projects\ComEditTool\ComEditTool\obj\x86\Debug\ComEditTool.pdb

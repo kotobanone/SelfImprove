@@ -1,0 +1,6 @@
+c:\users\23605\documents\visual studio 2012\Projects\WaitHandleTest\WaitHandleTest\bin\Debug\WaitHandleTest.exe.config
+c:\users\23605\documents\visual studio 2012\Projects\WaitHandleTest\WaitHandleTest\bin\Debug\WaitHandleTest.exe
+c:\users\23605\documents\visual studio 2012\Projects\WaitHandleTest\WaitHandleTest\bin\Debug\WaitHandleTest.pdb
+c:\users\23605\documents\visual studio 2012\Projects\WaitHandleTest\WaitHandleTest\obj\Debug\WaitHandleTest.csprojResolveAssemblyReference.cache
+c:\users\23605\documents\visual studio 2012\Projects\WaitHandleTest\WaitHandleTest\obj\Debug\WaitHandleTest.exe
+c:\users\23605\documents\visual studio 2012\Projects\WaitHandleTest\WaitHandleTest\obj\Debug\WaitHandleTest.pdb

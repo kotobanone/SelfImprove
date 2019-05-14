@@ -1,0 +1,104 @@
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:05    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:05    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:06    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:06    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:07    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:07    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:08    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:08    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:09    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:09    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:10    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:10    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:11    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:11    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:12    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:12    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:13    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:13    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+2017-09-05  16:48:14    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+2017-09-05  16:48:14    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:15]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:15]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:16]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:16]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:17]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:17]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:18]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:18]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:19]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:19]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:20]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:20]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:21]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:21]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:22]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:22]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:23]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:23]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:49:24]    FILE:logmodule.cpp    FUNC:main    LINE:32    MES:This is a Test
+[2017-09-05 16:49:24]    FILE:logmodule.cpp    FUNC:FuncB    LINE:15    MES:It is in FuncB
+[2017-09-05 16:51:13]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:13]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:14]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:14]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:15]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:15]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:16]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:16]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:17]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:17]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:18]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:18]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:19]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:19]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:20]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:20]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:21]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:21]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:51:22]  FILE:logmodule.cpp  [:main]:32    $MES:This is a Test
+[2017-09-05 16:51:22]  FILE:logmodule.cpp  [:FuncB]:15    $MES:It is in FuncB
+[2017-09-05 16:52:05]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:05]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:06]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:06]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:07]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:07]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:08]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:09]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:10]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:10]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:11]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:11]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:12]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:12]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:13]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:13]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:14]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:14]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB
+[2017-09-05 16:52:15]  FILE:logmodule.cpp<main>:32    $MES:This is a Test
+[2017-09-05 16:52:15]  FILE:logmodule.cpp<FuncB>:15    $MES:It is in FuncB

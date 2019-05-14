@@ -1,0 +1,15 @@
+﻿已經開始建置於 2017/7/1 下午 01:53:44。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\23605\documents\visual studio 2012\Projects\Base64Demo\Base64Demo\Base64Demo.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Xml.dll" /analyze- /errorReport:prompt base64.cpp
+         base64.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\23605\documents\visual studio 2012\Projects\Base64Demo\Debug\Base64Demo.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" /ASSEMBLYRESOURCE:Debug\Base64Demo.Base64Demo.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\23605\documents\visual studio 2012\Projects\Base64Demo\Debug\Base64Demo.pdb" /ASSEMBLYDEBUG /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\base64.obj
+         Debug\Base64Demo.obj
+         "Debug\.NETFramework,Version=v4.5.1.AssemblyAttributes.obj"
+         Base64Demo.vcxproj -> c:\users\23605\documents\visual studio 2012\Projects\Base64Demo\Debug\Base64Demo.exe
+     1>專案 "c:\Users\23605\documents\visual studio 2012\Projects\Base64Demo\Base64Demo\Base64Demo.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.32

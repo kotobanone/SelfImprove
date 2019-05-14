@@ -1,0 +1,5 @@
+C:\Users\23605\Desktop\VS2012\Projects\ByteShiftAndTest\ByteShiftAndTest\bin\Debug\ByteShiftAndTest.exe
+C:\Users\23605\Desktop\VS2012\Projects\ByteShiftAndTest\ByteShiftAndTest\bin\Debug\ByteShiftAndTest.pdb
+C:\Users\23605\Desktop\VS2012\Projects\ByteShiftAndTest\ByteShiftAndTest\obj\Debug\ByteShiftAndTest.csprojResolveAssemblyReference.cache
+C:\Users\23605\Desktop\VS2012\Projects\ByteShiftAndTest\ByteShiftAndTest\obj\Debug\ByteShiftAndTest.exe
+C:\Users\23605\Desktop\VS2012\Projects\ByteShiftAndTest\ByteShiftAndTest\obj\Debug\ByteShiftAndTest.pdb

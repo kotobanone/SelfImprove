@@ -1,0 +1,35 @@
+﻿已經開始建置於 2018/10/30 下午 12:01:08。
+     1>節點 2 (Rebuild 目標) 上的專案 "c:\Users\23605\documents\visual studio 2012\Projects\DBLinkEcrypt\DBLinkEcrypt\DBLinkEcrypt.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Base64Coder.cpp DBLEForm.cpp
+         DBLEForm.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(6): error C2871: 'System' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(7): error C2653: 'System' : 不是類別或命名空間名稱
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(7): error C2871: 'ComponentModel' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(8): error C2653: 'System' : 不是類別或命名空間名稱
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(8): error C2871: 'Collections' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(9): error C2653: 'System' : 不是類別或命名空間名稱
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(9): error C2871: 'Forms' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(10): error C2653: 'System' : 不是類別或命名空間名稱
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(10): error C2871: 'Data' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(11): error C2653: 'System' : 不是類別或命名空間名稱
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(11): error C2871: 'Drawing' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(16): error C2059: 語法錯誤 : 'public'
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(16): error C2653: 'System' : 不是類別或命名空間名稱
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(17): error C2143: 語法錯誤 : 遺漏 ';' (在 '{' 之前)
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.h(17): error C2447: '{' : 遺漏函式標頭 (舊樣式型式清單?)
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.cpp(2): error C2871: 'System' : 此名稱的命名空間不存在
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.cpp(5): error C2065: 'array' : 未宣告的識別項
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.cpp(5): error C2065: 'String' : 未宣告的識別項
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.cpp(5): error C2059: 語法錯誤 : '>'
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.cpp(6): error C2143: 語法錯誤 : 遺漏 ';' (在 '{' 之前)
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\dbleform.cpp(6): error C2447: '{' : 遺漏函式標頭 (舊樣式型式清單?)
+         Base64Coder.cpp
+     1>c:\users\23605\documents\visual studio 2012\projects\dblinkecrypt\dblinkecrypt\base64coder.cpp(5): fatal error C1083: 無法開啟包含檔案: 'stdafx.h': No such file or directory
+         正在產生程式碼...
+     1>專案 "c:\Users\23605\documents\visual studio 2012\Projects\DBLinkEcrypt\DBLinkEcrypt\DBLinkEcrypt.vcxproj" (Rebuild 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.77

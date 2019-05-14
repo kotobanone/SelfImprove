@@ -1,0 +1,8 @@
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\bin\x86\Release\RegAutoRunTool.exe
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\bin\x86\Release\RegAutoRunTool.pdb
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\obj\x86\Release\RegAutoRunTool.SetAutoRunTool.resources
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\obj\x86\Release\RegAutoRunTool.Properties.Resources.resources
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\obj\x86\Release\RegAutoRunTool.csproj.GenerateResource.Cache
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\obj\x86\Release\RegAutoRunTool.exe
+c:\users\23605\documents\visual studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\obj\x86\Release\RegAutoRunTool.pdb
+C:\Users\23605\Documents\Visual Studio 2013\Projects\RegAutoRunTool\RegAutoRunTool\obj\x86\Release\RegAutoRunTool.csprojResolveAssemblyReference.cache

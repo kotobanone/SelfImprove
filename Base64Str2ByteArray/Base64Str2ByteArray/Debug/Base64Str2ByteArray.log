@@ -1,0 +1,16 @@
+﻿已經開始建置於 2019/1/18 上午 10:50:04。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\23605\documents\visual studio 2012\Projects\Base64Str2ByteArray\Base64Str2ByteArray\Base64Str2ByteArray.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Base64Str2ByteArray.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Base64Str2ByteArray.cpp
+         Base64Str2ByteArray.cpp
+     1>c:\users\23605\documents\visual studio 2012\projects\base64str2bytearray\base64str2bytearray\base64str2bytearray.cpp(12): warning C4566: 由通用字元名稱 '\u00E9' 表示的字元，無法在目前的字碼頁中表示 (950)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\23605\documents\visual studio 2012\Projects\Base64Str2ByteArray\Debug\Base64Str2ByteArray.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\23605\documents\visual studio 2012\Projects\Base64Str2ByteArray\Debug\Base64Str2ByteArray.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\23605\documents\visual studio 2012\Projects\Base64Str2ByteArray\Debug\Base64Str2ByteArray.lib" /MACHINE:X86 Debug\base64.obj
+         Debug\Base64Str2ByteArray.obj
+         Debug\stdafx.obj
+         Base64Str2ByteArray.vcxproj -> c:\users\23605\documents\visual studio 2012\Projects\Base64Str2ByteArray\Debug\Base64Str2ByteArray.exe
+     1>專案 "c:\Users\23605\documents\visual studio 2012\Projects\Base64Str2ByteArray\Base64Str2ByteArray\Base64Str2ByteArray.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.03

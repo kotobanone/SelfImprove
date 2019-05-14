@@ -1,0 +1,194 @@
+﻿已經開始建置於 2017/7/1 下午 03:35:28。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\23605\documents\visual studio 2012\Projects\GetMacDemo\GetMacDemo\GetMacDemo.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Xml.dll" /analyze- /errorReport:prompt GetMacForm.cpp
+         GetMacForm.cpp
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(46): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_command' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(46): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(47): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_retcode' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(47): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(48): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_lsn' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(48): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(49): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_num' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(49): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(50): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_buffer' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(50): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(51): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_length' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(51): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(52): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_callname' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(52): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(53): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_name' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(53): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(54): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_rto' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(54): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(55): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_sto' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(55): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(56): error C2143: 語法錯誤 : 遺漏 ')' (在 '*' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(56): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(56): error C2182: 'CALLBACK' : 型別 'void' 的使用不合法
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(56): error C2059: 語法錯誤 : ')'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(56): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(56): warning C4183: 'ncb_post': 遺漏傳回型別; 假設是傳回 'int' 的成員函式
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(57): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_lana_num' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(57): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(58): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_cmd_cplt' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(58): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(62): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_reserve' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(62): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(64): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ncb_event' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(64): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(76): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'adapter_address' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(76): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(77): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'rev_major' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(77): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(78): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'reserved0' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(78): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(79): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'adapter_type' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(79): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(80): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'rev_minor' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(80): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(81): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'duration' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(81): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(82): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'frmr_recv' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(82): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(83): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'frmr_xmit' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(83): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(85): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'iframe_recv_err' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(85): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(87): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'xmit_aborts' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(87): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(88): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'xmit_success' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(88): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(89): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'recv_success' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(89): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(91): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'iframe_xmit_err' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(91): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(93): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'recv_buff_unavail' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(93): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(94): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 't1_timeouts' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(94): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(95): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'ti_timeouts' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(95): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(96): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'reserved1' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(96): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(97): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'free_ncbs' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(97): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(98): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'max_cfg_ncbs' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(98): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(99): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'max_ncbs' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(99): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(100): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'xmit_buf_unavail' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(100): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(101): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'max_dgram_size' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(101): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(102): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'pending_sess' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(102): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(103): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'max_cfg_sess' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(103): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(104): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'max_sess' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(104): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(105): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'max_sess_pkt_size' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(105): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(106): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'name_count' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(106): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(110): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'name' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(110): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(111): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'name_num' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(111): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(112): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'name_flags' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(112): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(136): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'sess_name' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(136): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(137): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'num_sess' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(137): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(138): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'rcv_dg_outstanding' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(138): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(139): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'rcv_any_outstanding' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(139): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(143): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'lsn' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(143): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(144): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'state' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(144): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(145): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'local_name' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(145): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(146): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'remote_name' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(146): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(147): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'rcvs_outstanding' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(147): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(148): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'sends_outstanding' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(148): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(168): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'length' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(168): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(169): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'lana' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(169): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(178): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'node_count' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(178): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(179): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'reserved' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(179): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(180): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'unique_group' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(180): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(184): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'length' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(184): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(185): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'access_control' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(185): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(186): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'frame_control' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(186): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(187): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'destination_addr' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(187): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(188): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'source_addr' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(188): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(189): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'routing_info' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(189): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(198): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'transport_id' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(198): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(199): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'action_code' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(199): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(200): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'reserved' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(200): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(304): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'APIENTRY' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(304): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(304): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'Netbios' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(306): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h(55): error C2378: 'UCHAR' : 重複定義; 符號無法以 typedef 多載
+                 C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(303) : 請參閱 'UCHAR' 的宣告
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h(56): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h(56): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h(56): error C2378: 'UCHAR' : 重複定義; 符號無法以 typedef 多載
+                 C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h(303) : 請參閱 'UCHAR' 的宣告
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\sysinfoapi.h(514): error C2061: 語法錯誤 : 識別項 'UCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\sysinfoapi.h(511): error C2733: 'VerSetConditionMask' : 不允許多載函式的第二個 C 連結
+                 C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnt.h(17040) : 請參閱 'VerSetConditionMask' 的宣告
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(820): error C2061: 語法錯誤 : 識別項 'PUCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(848): error C2146: 語法錯誤 : 遺漏 ')' (在識別項 'nSubAuthorityCount' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(848): warning C4229: 過時的用法 : 已忽略資料上的修飾詞
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(848): error C2491: 'GetSidLengthRequired' : dllimport 資料 的定義是不被允許的
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(848): error C2059: 語法錯誤 : ')'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(862): error C2143: 語法錯誤 : 遺漏 ';' (在 '__stdcall' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(862): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(862): error C2040: 'PUCHAR' : 'int' 和 'int *' 的間接取值層級不同
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(865): error C4430: 遺漏型別規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(1271): error C2061: 語法錯誤 : 識別項 'PUCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h(1320): error C2061: 語法錯誤 : 識別項 'PUCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(3113): error C2061: 語法錯誤 : 識別項 'UCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(3121): error C2061: 語法錯誤 : 識別項 'PUCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(7669): error C2061: 語法錯誤 : 識別項 'UCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9422): error C2146: 語法錯誤 : 遺漏 ')' (在識別項 'Processor' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9422): warning C4229: 過時的用法 : 已忽略資料上的修飾詞
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9422): error C2491: 'GetNumaProcessorNode' : dllimport 資料 的定義是不被允許的
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9424): error C2059: 語法錯誤 : ')'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9454): error C2146: 語法錯誤 : 遺漏 ')' (在識別項 'Node' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9454): warning C4229: 過時的用法 : 已忽略資料上的修飾詞
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9454): error C2491: 'GetNumaNodeProcessorMask' : dllimport 資料 的定義是不被允許的
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9456): error C2059: 語法錯誤 : ')'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9462): error C2146: 語法錯誤 : 遺漏 ')' (在識別項 'Node' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9462): warning C4229: 過時的用法 : 已忽略資料上的修飾詞
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9462): error C2491: 'GetNumaAvailableMemoryNode' : dllimport 資料 的定義是不被允許的
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9464): error C2059: 語法錯誤 : ')'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9485): error C2061: 語法錯誤 : 識別項 'PUCHAR'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9657): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'CompressionUnitShift' 之前)
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h(9657): fatal error C1003: 錯誤計數超過 100; 停止編譯
+     1>專案 "c:\Users\23605\documents\visual studio 2012\Projects\GetMacDemo\GetMacDemo\GetMacDemo.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.68
